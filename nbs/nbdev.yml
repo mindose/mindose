@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "mindose"
+  site-url: "https://mindose.github.io/mindose"
+  description: "MED-Minimum Effective Dose"
+  repo-branch: main
+  repo-url: "https://github.com/mindose/mindose"
