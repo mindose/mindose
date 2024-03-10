@@ -1,0 +1,1 @@
+Sitemap: https://mindose.github.io/mindose/sitemap.xml
